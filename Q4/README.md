@@ -31,7 +31,7 @@ Ardından projeyi çalıştırın:
 python main.py
 ```
 
-## Projeyi Çalıştırma
+## Proje Özellikleri
 
 - **Paralel İşlem Desteği**: ProcessPoolExecutor kullanılarak her işlem için paralel çalıştırma sağlanır.
 - **Kaynak Kullanımı İzleme**: psutil kütüphanesi ile işlem başına CPU ve bellek kullanımı ölçülür.
