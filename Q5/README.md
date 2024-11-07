@@ -4,6 +4,10 @@ Bu proje, bir Linux sunucusuna SSH bağlantısı kurarak uzaktan komut veya yap�
 
 Python'un paramiko, asyncio ve ipaddress gibi kütüphaneleri kullanılarak ağdaki cihazlara verimli ve hızlı bir şekilde komut gönderilir. Asenkron yapılar sayesinde çok sayıda cihazla aynı anda işlem yapılabilir. Projenin amacı, belirli bir ağ bloğundaki cihazlara SSH üzerinden komut göndermek ve bu komutların çıktısını almak, ayrıca cihazların durumlarını güncellemektir.
 
+Kodun terminal çıktıları aşağıda verilmiştir. asyncio kütüphanesi ile asenkron bir şekilde bağlantılar kurulup komutlar gönderilmektedir.
+
+![Proje Test](image.png)
+
 ## Özellikler
 
 Bu projede aşağıdaki Python kütüphanelerine ihtiyaç vardır:
